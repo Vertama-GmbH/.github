@@ -1,4 +1,6 @@
 site_name: ELIM Documentation
+site_url: https://vertama-gmbh.github.io/
+theme: readthedocs
 plugins:
   #  - pdf-export: 
   #    compbined: true
@@ -42,4 +44,3 @@ plugins:
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
